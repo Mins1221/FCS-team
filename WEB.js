@@ -35,3 +35,4 @@ function handleClick1() {
 }
 
 category1.addEventListener("click", handleClick1);
+.
